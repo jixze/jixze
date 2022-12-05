@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/1006491186875338823/1017090536861093968/04a12f46f555b3c260d00d37e69c3e7a.png">
   <br>
   <br>
-  <img src="https://lanyard.cnrad.dev/api/849413565487382578">
+  <img src="https://lanyard.cnrad.dev/api/1030016761321496587">
 </p>
 
 ### • Who am I?
